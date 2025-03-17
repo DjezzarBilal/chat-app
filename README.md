@@ -40,5 +40,8 @@ npm run build
 ### Start the app
 ```bash
 npm run start
+```
 
+## 🚀 Live Demo  
+[Click here to try the app](https://chat-app-4o0w.onrender.com/login)  
 
